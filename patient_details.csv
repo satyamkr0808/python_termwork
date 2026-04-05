@@ -1,0 +1,13 @@
+patient_id,name,age,gender,city
+P001,Alice,28,Female,mumbai
+P002,Bob,-35,M,DELHI
+P003,,22,Female,Bangalore
+P004,Diana,30,F,CHENNAI
+P005,Eve,25,Female,hyderabad
+P006,,19,M,Pune
+P007,Grace,-45,Male,KOLKATA
+P008,,32,F,mumbai
+P009,Ivan,27,Male,Delhi
+P010,Judy,38,F,BANGALORE
+P011,,29,Male,chennai
+P012,Leo,-23,M,Hyderabad

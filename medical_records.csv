@@ -1,0 +1,13 @@
+patient_id,admission_date,diagnosis,height_cm,bp,sugar_level,visit_cost
+P001,2024/01/15,Diabetes,170,120/80,95.0,1500
+P002,15-02-2024,Hypertension,165abc,high,140.0,2000
+P003,2024/03/10,Diabetes,180,130/85,,1800
+P004,10.04.2024,Fever,155,110/70,88.0,800
+P005,2024/05/22,Asthma,175,high,102.0,2500
+P006,22-06-2024,Diabetes,160,125/82,,1600
+P007,2024/07/18,Fever,185,115/75,91.0,900
+P008,18.08.2024,Hypertension,150xyz,high,155.0,2200
+P009,2024/09/05,Asthma,172,128/84,98.0,2400
+P010,05-10-2024,Diabetes,168,high,,1700
+P011,2024/11/12,Fever,178,118/76,85.0,850
+P012,12.12.2024,Hypertension,163,high,148.0,2100
